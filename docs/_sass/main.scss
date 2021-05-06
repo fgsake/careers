@@ -1,0 +1,10 @@
+.home {
+	summary::marker {
+		content: "+ ";
+	}
+	details[open] {
+		summary::marker {
+			content: "- ";
+		}
+	}
+}

@@ -1,10 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 
 layout: home
 ---
+
 
 # **OMGYES IS HIRING**
 
@@ -19,26 +17,28 @@ We’ve enjoyed great success and growth that now allow us to enter a new phase:
 Open Roles:
 <a name="positions"></a>
 
-### **<u> Head of Product </u>**
+<details>
+	<summary>Head of Product</summary>
 
-We’re looking for a user-focused product leader to join our leadership team as Head of Product. You will:
+	We’re looking for a user-focused product leader to join our leadership team as Head of Product. You will:
 
-* Lead the company decision-making, prioritization and resourcing process to define our product roadmap. Then use your process ingenuity and relationship leadership to plan and lead execution
+	* Lead the company decision-making, prioritization and resourcing process to define our product roadmap. Then use your process ingenuity and relationship leadership to plan and lead execution
 
-* Manage and mentor a team of PMs to help them grow and unlock their potential
+	* Manage and mentor a team of PMs to help them grow and unlock their potential
 
-* Bridge product design, engineering, marketing and content teams to set and execute on ambitious shared goals
+	* Bridge product design, engineering, marketing and content teams to set and execute on ambitious shared goals
 
-#### **REQUIREMENTS**:
+	#### **REQUIREMENTS**:
 
-* 8+ years experience in product management, including building B2C products/services
-* Experience leading a team that loves their work, having candid conversations with empathy and kindness, supporting the professional development of staff, and maintaining high morale
-* Experience working in a small, quickly growing company
-* A track record of delivering complex, end-to-end digital products
-* Strong analytical skills and experience with data analysis tools.
-* Ideally adjacent B2C category experience: health, wellness, education, or digital content
+	* 8+ years experience in product management, including building B2C products/services
+	* Experience leading a team that loves their work, having candid conversations with empathy and kindness, supporting the professional development of staff, and maintaining high morale
+	* Experience working in a small, quickly growing company
+	* A track record of delivering complex, end-to-end digital products
+	* Strong analytical skills and experience with data analysis tools.
+	* Ideally adjacent B2C category experience: health, wellness, education, or digital content
 
-[Apply to be Head of Product][1].
+	[Apply to be Head of Product][1].
+</details>
 
 <p>&nbsp;</p>
 
@@ -134,7 +134,7 @@ Your team will include copywriters, visual designers, a product manager, enginee
 
 
 
-### ** <u> RESEARCH SCIENTIST </u> **
+### ** <u>RESEARCH SCIENTIST</u> **
 
 This is an opportunity to work in an environment where research forms the basis of the entire company. We are looking for multiple types of researchers to join us in conducting company-funded (that’s right, NO grant writing required) qualitative and quantitative studies and publishing papers about specific sexual pleasure and flourishing strategies that have never been explored before. You might be one of these people: 
 
@@ -160,7 +160,7 @@ This is an opportunity to work in an environment where research forms the basis 
 
 <p>&nbsp;</p>
 
-### **<u> Senior UX Designer </u> **
+### **<u>Senior UX Designer</u>**
 
 We're looking for a highly experienced UX designer, passionate about solving complex problems and building elegant, impactful experiences people care about. You will:
 
@@ -188,7 +188,7 @@ We're looking for a highly experienced UX designer, passionate about solving com
 
 <p>&nbsp;</p>
 
-### **<u> UI Designer </u> **
+### **<u>UI Designer</u>**
 
 #### **What You'll Be Doing**
 
@@ -211,7 +211,7 @@ We’re looking for a highly creative, detail-oriented web visual designer to jo
 
 <p>&nbsp;</p>
 
-### **<u> Lead Backend Developer </u> **
+### **<u> Lead Backend Developer </u>**
 
 We’re looking for a highly creative, detail-oriented knowledgeable developer to join our team. We are open to remote work for this position. You will:
 
@@ -239,7 +239,7 @@ We’re looking for a highly creative, detail-oriented knowledgeable developer t
 
 <p>&nbsp;</p>
 
-### **<u> Lead Illustrator/Animator </u> **
+### **<u> Lead Illustrator/Animator </u>**
 
 We’re looking for a highly creative, detail-oriented illustrator/ animator to join our team. You will:
 
